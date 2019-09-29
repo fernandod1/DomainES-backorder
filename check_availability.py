@@ -1,4 +1,8 @@
-#!/usr/bin/python
+#!/usr/bin/env python3.5
+
+# Copyright (c) 2019 Fernando
+# Url: https://github.com/dlfernando/
+# License: MIT
 
 # USAGE COMMAND TO CHECK DOMAIN.ES AVAILABILITY EVERY 0.2 SECONDS:
 # You should install linux command "watch". Example usage:
