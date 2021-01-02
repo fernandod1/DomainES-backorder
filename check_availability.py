@@ -1,7 +1,7 @@
 #!/usr/bin/env python3.5
 
-# Copyright (c) 2019 Fernando
-# Url: https://github.com/dlfernando/
+# Copyright (c) 2020 Fernando
+# Url: https://github.com/fernandod1/
 # License: MIT
 
 # USAGE COMMAND TO CHECK DOMAIN.ES AVAILABILITY EVERY 0.2 SECONDS:

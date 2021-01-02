@@ -21,4 +21,4 @@ python check_availability.py domain_I_want.es
 
 COLLABORATIONS:
 
-Collaborations to improve this script are always welcome :)
+Collaborations to improve script are always welcome.
